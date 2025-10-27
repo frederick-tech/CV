@@ -1,13 +1,10 @@
-## Présentation
-
-Photo:
 ![alt text](https://cdn.britannica.com/74/195374-050-A7B13DCA/Emmanuel-Macron-2017.jpg)
 
+## Présentation
 Frédérick Flavil, 30 ans, ancien technicien en sécurité systèmes alarmes et vidéosurveillance.
 Sens des responsabilités, esprit d'équipe, résolution de problèmes, adaptabilité sont mes maitres mots.
 
 ## Formation
-
 - Titre Professionnel de Technicien Supérieur Systèmes et Réseaux
 	De 2025 à 2026 **Wild Code School** *en France*
 
@@ -18,7 +15,6 @@ Sens des responsabilités, esprit d'équipe, résolution de problèmes, adaptabi
 	De 2010 à 2012 au **Lycée Félix Éboué** *en France*
 
 ## Expérience Professionnelle
-
 - Technicien Installateur
 	De 2023 à 2025 [**Sunzil Services Caraïbes**](https://www.sunzil.com/) *Guyane*
 
@@ -35,6 +31,5 @@ Sens des responsabilités, esprit d'équipe, résolution de problèmes, adaptabi
 	De 2014 à 2019 **ATS-DICTO** *Guyane*
 
 ## Hobbies
-
 - Musique électronique
 - Infographie
