@@ -1,6 +1,6 @@
-## <img src="https://cdn.britannica.com/74/195374-050-A7B13DCA/Emmanuel-Macron-2017.jpg" align="right" width="125">
 
-## Présentation
+
+## Présentation <img src="https://cdn.britannica.com/74/195374-050-A7B13DCA/Emmanuel-Macron-2017.jpg" align="right" width="125">
 Frédérick Flavil, 30 ans, ancien technicien en sécurité systèmes alarmes et vidéosurveillance.
 Sens des responsabilités, esprit d'équipe, résolution de problèmes, adaptabilité sont mes maitres mots.
 
